@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rromang
+- 👋 Hi, I’m Rosa Roman.
 - 👀 I’m interested in data analysis.
 - 🌱 I’m currently learning Data Analytics with UofA Data Analytics Bootcamp.
 - 💞️ I’m looking to increase my learning and practice new skills.
